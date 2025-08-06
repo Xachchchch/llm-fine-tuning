@@ -1,6 +1,6 @@
 transformers
-datasets
 peft
+datasets
 accelerate
 wandb
 scikit-learn
